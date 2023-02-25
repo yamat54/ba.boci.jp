@@ -1,0 +1,22 @@
+.btn-location {
+  background-image: none !important;
+  background-color: #f00 !important;
+  font-size: 1.3em;
+  color: #fff;
+  border-radius: 3px;
+  padding: 10px 5px 5px;
+}
+.btn-location:hover {
+  background-color: #fff !important;
+  color: #f00;
+  border:1px solid #f00 !important;
+}
+
+.btn-location.open {
+  background-color: #0f0 !important;
+}
+.btn-location.open:hover {
+  background-color: #fff !important;
+  color: #0f0;
+  border:1px solid #0f0 !important;
+}

@@ -1,0 +1,21 @@
+[
+  { "name": "meguro", "status": "close" },
+  { "name": "yokohama", "status": "close" },
+  { "name": "roppongi", "status": "close" },
+  { "name": "aoyama", "status": "close" },
+  { "name": "ebisu", "status": "close" },
+  { "name": "kanda", "status": "close" },
+  { "name": "kyobashi", "status": "close" },
+  { "name": "kudanshita", "status": "close" },
+  { "name": "shinagawa", "status": "close" },
+  { "name": "shibuyananpeidai", "status": "close" },
+  { "name": "shibuyafukuras", "status": "close" },
+  { "name": "shinjuku3chome", "status": "close" },
+  { "name": "shimbashi", "status": "close" },
+  { "name": "takeshiba", "status": "close" },
+  { "name": "tamachi", "status": "close" },
+  { "name": "tokyo", "status": "close" },
+  { "name": "nihonbashi", "status": "close" },
+  { "name": "hibiya", "status": "close" },
+  { "name": "marunouchi", "status": "close" }
+]
