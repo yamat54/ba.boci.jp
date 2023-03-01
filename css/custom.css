@@ -1,6 +1,6 @@
 .btn-location {
   background-image: none !important;
-  background-color: #dc3545 !important;
+  background-color: #F66 !important;
   font-size: 1.3em;
   color: #fff;
   border-radius: 3px;
@@ -8,17 +8,17 @@
 }
 .btn-location:hover {
   background-color: #fff !important;
-  color: #dc3545;
-  border: 1px solid #dc3545 !important;
+  color: #F66;
+  border: 1px solid #F66 !important;
 }
 
 .btn-location.open {
-  background-color: #28a745 !important;
+  background-color: #6C6 !important;
 }
 .btn-location.open:hover {
   background-color: #fff !important;
-  color: #28a745;
-  border: 1px solid #28a745 !important;
+  color: #6C6;
+  border: 1px solid #6C6 !important;
 }
 
 @media screen and (min-width: 1px) and (max-width: 767px) {
