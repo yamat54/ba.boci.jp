@@ -1,6 +1,6 @@
 .btn-location {
   background-image: none !important;
-  background-color: #f00 !important;
+  background-color: #dc3545 !important;
   font-size: 1.3em;
   color: #fff;
   border-radius: 3px;
@@ -8,15 +8,27 @@
 }
 .btn-location:hover {
   background-color: #fff !important;
-  color: #f00;
-  border:1px solid #f00 !important;
+  color: #dc3545;
+  border: 1px solid #dc3545 !important;
 }
 
 .btn-location.open {
-  background-color: #0f0 !important;
+  background-color: #28a745 !important;
 }
 .btn-location.open:hover {
   background-color: #fff !important;
-  color: #0f0;
-  border:1px solid #0f0 !important;
+  color: #28a745;
+  border: 1px solid #28a745 !important;
+}
+
+@media screen and (min-width: 1px) and (max-width: 767px) {
+  .p-page-shop__area__map__img {
+    background-image: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-bg01.png) !important;
+  }
+}
+
+@media screen and (min-width: 1px) and (max-width: 767px) {
+  .p-page-shop__area__map__img li {
+    display: list-item !important;
+  }
 }
