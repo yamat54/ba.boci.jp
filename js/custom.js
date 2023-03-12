@@ -1,7 +1,8 @@
 $(function () {
+  const now = new Date();
   $.ajax({
     type: "GET",
-    url: "/location.json",
+    url: "/location.json?v=" + now.getTime(),
     dataType: "json",
   }).done(function (data, textStatus, jqXHR) {
     $.each(data, function (index, row) {

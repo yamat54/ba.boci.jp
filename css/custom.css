@@ -25,10 +25,11 @@
   .p-page-shop__area__map__img {
     background-image: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-bg01.png) !important;
   }
-}
-
-@media screen and (min-width: 1px) and (max-width: 767px) {
   .p-page-shop__area__map__img li {
     display: list-item !important;
+  }
+  .btn-location {
+    font-size: 1em;
+    padding: 9px 5px 5px;
   }
 }
