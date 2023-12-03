@@ -33,3 +33,7 @@
     padding: 9px 5px 5px;
   }
 }
+
+.p-page-shop__area__map__img__flex__popup {
+  z-index: 10001;
+}
