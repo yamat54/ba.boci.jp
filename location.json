@@ -17,6 +17,6 @@
   { "name": "tokyo", "status": "close" },
   { "name": "nihonbashi", "status": "close" },
   { "name": "hibiya", "status": "close" },
-  { "name": "marunouchi", "status": "close" }
+  { "name": "marunouchi", "status": "close" },
   { "name": "daikanyama", "status": "close" }
 ]
