@@ -1,6 +1,6 @@
 .btn-location {
   background-image: none !important;
-  background-color: #F66 !important;
+  background-color: #f66 !important;
   font-size: 1.3em;
   color: #fff;
   border-radius: 3px;
@@ -8,17 +8,17 @@
 }
 .btn-location:hover {
   background-color: #fff !important;
-  color: #F66;
-  border: 1px solid #F66 !important;
+  color: #f66;
+  border: 1px solid #f66 !important;
 }
 
 .btn-location.open {
-  background-color: #6C6 !important;
+  background-color: #6c6 !important;
 }
 .btn-location.open:hover {
   background-color: #fff !important;
-  color: #6C6;
-  border: 1px solid #6C6 !important;
+  color: #6c6;
+  border: 1px solid #6c6 !important;
 }
 
 @media screen and (min-width: 1px) and (max-width: 767px) {
@@ -36,4 +36,162 @@
 
 .p-page-shop__area__map__img__flex__popup {
   z-index: 10001;
+}
+
+.p-page-shop .p-page--common__inner {
+  margin-bottom: 50px;
+}
+
+/* adjust map location */
+
+.p-page-shop__area__map__img__tokyo > span {
+  top: 50%;
+  left: 76%;
+  background:url(/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-tokyo-on.png) no-repeat
+}
+.p-page-shop__area__map__img__shinjuku3chome > span {
+  top: 27%;
+  left: 35%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-shinjuku3chome-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__shinjuku > span {
+  top: 25.3%;
+  left: 28%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-shinjuku-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__ebisu > span {
+  top: 59.7%;
+  left: 30.6%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-ebisu-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__shibuya > span {
+  top: 50%;
+  left: 28%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-shibuya-on.png)
+    no-repeat;
+  background-size: 100%;
+}
+.p-page-shop__area__map__img__daikanyama > span {
+  top: 53.5%;
+  left: 21%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-daikanyama-on.png)
+    no-repeat;
+  background-size: 100%;
+}
+.p-page-shop__area__map__img__meguro > span {
+  top: 68.7%;
+  left: 39.6%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-meguro-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__shinagawa > span {
+  top: 72.6%;
+  left: 48.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-shinagawa-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__tamachi > span {
+  top: 72.5%;
+  left: 54%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-tamachi-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__takeshiba > span {
+  top: 73.8%;
+  left: 69.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-takeshiba-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__kudanshita > span {
+  top: 31%;
+  left: 57%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-kudanshita-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__kyobashi > span {
+  top: 52.9%;
+  left: 82.3%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-kyobashi-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__hibiya > span {
+  top: 57%;
+  left: 64.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-hibiya-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__shimbashi > span {
+  top: 64.7%;
+  left: 69.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-shimbashi-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__roppongi > span {
+  top: 64.6%;
+  left: 42%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-roppongi-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__nihonbashi > span {
+  top: 48.5%;
+  left: 84%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-nihonbashi-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__kanda > span {
+  top: 40%;
+  left: 78.8%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-kanda-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__otemachi > span {
+  top: 42%;
+  left: 68%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-otemachi-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__gaienmae > span {
+  left: 37.5%;
+  top: 51%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-gaienmae-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__nijyubashimae > span {
+  top: 47%;
+  left: 68%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-nijyubashimae-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__yokohama > span {
+  top: 75.5%;
+  left: 17.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-yokohama-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__shintakashima > span {
+  left: 20.5%;
+  top: 79.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-shintakashima-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__hamamatsucho > span {
+  top: 69.3%;
+  left: 62.5%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-hamamatsucho-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__yurakucho > span {
+  left: 73.5%;
+  top: 55%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-yurakucho-on.png)
+    no-repeat;
+}
+.p-page-shop__area__map__img__nishiumeda > span {
+  top: 83.5%;
+  right: 90%;
+  background: url(https://business-airport.net/cms/wp-content/themes/business-airport/images/top/top-sec02-txt-nishiumeda-on.png)
+    no-repeat;
 }

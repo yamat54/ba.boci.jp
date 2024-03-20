@@ -1,7 +1,6 @@
 [
   { "name": "meguro", "status": "close" },
   { "name": "yokohama", "status": "close" },
-  { "name": "roppongi", "status": "close" },
   { "name": "aoyama", "status": "close" },
   { "name": "ebisu", "status": "close" },
   { "name": "kanda", "status": "close" },
